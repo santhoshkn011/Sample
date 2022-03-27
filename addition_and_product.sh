@@ -7,4 +7,4 @@ c=30
 sum=$(( $a + $b + $c ))
 multiplication=$(( $a * $b * $c )) 
 echo "Sum of $a, $b and $c is $sum"
-echo "The multiplication of $a, $b and $c = $multiplication"
+echo "The multiplication of $a, $b and $c is $multiplication"
